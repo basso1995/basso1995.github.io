@@ -4,6 +4,16 @@ title = 'Federico Bassetto'
 theme = "paper"
 author = 'Federico Bassetto'
 
+[params]
+  color = 'wheat'
+
+  linkedin = "fbassetto"
+  rss = true
+
+  avatar = 'bassetto.federico@gmail.com'
+  name = 'Welcome'
+  bio = 'Discover fresh context'
+
 [menu]
 
   [[menu.main]]
