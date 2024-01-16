@@ -2,3 +2,17 @@ baseURL = 'https://basso1995.github.io/'
 languageCode = 'en-us'
 title = 'Federico Bassetto'
 theme = "paper"
+author = 'Federico Bassetto'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
